@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**kavehtehrani/kavehtehrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Hi, I'm [Kaveh](https://en.wikipedia.org/wiki/Kaveh_the_Blacksmith)! 👋
 
 I work as a quantitative portfolio manager focused mostly on digital assets while living full time as a digital nomad.
 
