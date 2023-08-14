@@ -9,5 +9,5 @@ I grew up with computers and fell in love with programming in my teenage years.
 🌱 I’m currently learning Solidity and front-end JS frameworks, mainly React and Next.js\
 👯 I’m looking to collaborate on anything web3 related!
 
-My personal website is at [kaveh.page](kaveh.page).
+My personal website is at [kaveh.page](https://kaveh.page).
 
