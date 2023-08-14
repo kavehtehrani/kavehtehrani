@@ -2,15 +2,16 @@
 
 <!--
 **kavehtehrani/kavehtehrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I work as a quantitative portfolio manager focused mostly on digital assets while living full time as a digital nomad.
+
+I am a recovering tradfi banker. I worked in traditional finance for +10 years as an investment banker, derivatives trader, and quantitative portfolio manager before leaving for entrepreneurial pursuits.
+
+I grew up with computers and fell in love with programming in my teenage years.
+
+🌱 I’m currently learning Solidity and front-end JS frameworks, mainly React and Next.js
+👯 I’m looking to collaborate on anything web3 related!
+
+My personal website is at [kaveh.page](kaveh.page).
+
