@@ -1,6 +1,6 @@
 ### Hi, I'm [Kaveh](https://en.wikipedia.org/wiki/Kaveh_the_Blacksmith)! 👋
 
-I work as a quantitative portfolio manager focused mostly on digital assets while living full time as a digital nomad.
+I work as a quantitative portfolio manager focused mostly on digital assets while living sometimes as a digital nomad.
 
 I am a recovering tradfi banker. I worked in traditional finance for +10 years as an investment banker, derivatives trader, and quantitative portfolio manager before leaving for entrepreneurial pursuits.
 
