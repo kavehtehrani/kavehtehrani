@@ -4,7 +4,7 @@ I work as a quantitative portfolio manager focused mostly on digital assets whil
 
 I am a recovering tradfi banker. I worked in traditional finance for +10 years as an investment banker, derivatives trader, and quantitative portfolio manager before leaving for entrepreneurial pursuits.
 
-I grew up with computers and fell in love with programming in my teenage years.
+I grew up with computers and fell in love with programming in my teenage years. I absolutely love software development, especially the collaborate open-source kind.
 
 🌱 I’m currently working with Solidity, Rust, and front-end JS frameworks, mainly React and Next.js\
 👯 I’m looking to collaborate on anything web3 related!
